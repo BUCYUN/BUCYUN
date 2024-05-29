@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BUCYUN
-- 👀 I’m interested in Python and HML 
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Python, HTML, CSS 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on UMSA
 - 📫 How to reach me brayanumpiri588@gamil.com
-- 😄 Pronouns: he is 
+- 😄 Pronouns: he 
 - ⚡ Fun fact: i like videogames
 
 <!---
